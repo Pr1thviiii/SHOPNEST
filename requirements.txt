@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+sqlalchemy
+mysql-connector-python
+python-dotenv
+PyJWT
+pwdlib[argon2]
+alembic
